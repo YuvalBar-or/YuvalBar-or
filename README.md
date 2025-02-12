@@ -76,9 +76,12 @@ Here are some of the projects I've worked on:
 
 Below are some of the university courses I have completed:
 
-- **C Programming**: Learned the basics of C programming including variables, data types, control structures, and memory management.
-- **Java Programming**: Focused on object-oriented programming concepts, exception handling, and GUI development.
-- **Machine Learning & Neural Networks**: Covered the fundamentals of ML algorithms, neural network architectures, and their applications.
-- **Image Processing**: Learned about image enhancement, segmentation, and feature extraction techniques.
-- **Operating Systems**: Focused on process management, memory management, file systems, and system security.
+- **[C Programming](https://github.com/YuvalBar-or/C-Course.git)**: Learned the basics of C programming including variables, data types, control structures, and memory management.
+- **[Java Programming](https://github.com/YuvalBar-or/OOP-Course.git)**: Focused on object-oriented programming concepts, exception handling, and GUI development.
+- **[Machine Learning & Neural Networks](https://github.com/YuvalBar-or/ML-and-NN-Course.git)**: Covered the fundamentals of ML algorithms, neural network architectures, and their applications.
+- **[Image Processing](https://github.com/YuvalBar-or/Image-Processing-Course.git)**: Learned about image enhancement, segmentation, and feature extraction techniques.
+- **[Operating Systems](https://github.com/YuvalBar-or/Operating-Systems-Course.git)**: Focused on process management, memory management, file systems, and system security.
+- **[Computer Communications](https://github.com/YuvalBar-or/Computer-Coms-Course.git)**: Studied network protocols, data transmission, error detection, and routing in communication systems.
+- **[C++ Programming](https://github.com/YuvalBar-or/CPP-course.git)**: Covered the fundamentals of C++ including object-oriented programming, memory management, and advanced data structures.
+
 

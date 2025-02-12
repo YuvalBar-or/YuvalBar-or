@@ -123,7 +123,7 @@ As part of my Bachelor's degree, I worked on a project focused on enhancing **ca
 - **Outcome**: The study concluded that combining simpler models with expert-driven features could achieve competitive accuracy in cancer diagnosis, providing more interpretable results for clinical settings.
 
 For more details, you can check out the final paper I submitted:  
-**[Bachelor’s Final Paper: Radiologist-Informed Feature Extraction for Cancer Diagnosis](https://github.com/YuvalBar-or/Bachelors-Final-Paper/blob/main/Bachelors-Final-Paper.pdf)**
+**[Bachelor’s Final Paper: Radiologist-Informed Feature Extraction for Cancer Diagnosis](Report final paper.pdf)**
 
 
 ---

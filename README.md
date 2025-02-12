@@ -19,7 +19,7 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 - **Data Analysis**: Pandas, NumPy, OpenCV, Scikit-learn
 - **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
 - **Database Management**: MySQL, MongoDB
-- **Web Development**: Flask, HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript
 
 ---
 

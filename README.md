@@ -25,9 +25,9 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 
 ## 🌱 Interests & Hobbies
 
-- **Data Science**: Passionate about predictive modeling and using data to uncover insights.
+- **Data Science**: Passionate about predictive modeling and how data can unlock insights for better decision-making.
 - **AI & Machine Learning**: Developing machine learning models and applying deep learning techniques to real-world problems.
-- **Open Source Contribution**: I contribute to open-source projects and believe in the power of collaboration.
+- **Open Source Contribution**: I actively contribute to open-source projects and believe in the power of collaboration.
 - **Mathematics**: Solving complex mathematical problems and exploring their application in algorithms.
 
 ---
@@ -85,11 +85,13 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 
 ## 🚀 Projects
 
-### Here are some of the projects I've worked on:
+### Below are some of the projects I've worked on:
 
-- **[Heart Disease Prediction](https://github.com/YuvalBar-or/Heart-disease-probability.git)**: A machine learning model to predict heart disease based on patient data.
-- **[Cat and Dog Classification](https://github.com/YuvalBar-or/cat_dog_classification.git)**: A classification project using KNN and SVM to differentiate between cats and dogs.
-- **[Cars Classification](https://github.com/YuvalBar-or/CarsClassification.git)**: Implements a deep learning image classifier using DenseNet121 for binary classification of car images.
+| **Project Name**                | **Description**                                                                                             |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **[Heart Disease Prediction](https://github.com/YuvalBar-or/Heart-disease-probability.git)** | A machine learning model to predict heart disease based on patient data.                                       |
+| **[Cat and Dog Classification](https://github.com/YuvalBar-or/cat_dog_classification.git)** | A classification project using KNN and SVM to differentiate between cats and dogs.                            |
+| **[Cars Classification](https://github.com/YuvalBar-or/CarsClassification.git)** | Implements a deep learning image classifier using DenseNet121 for binary classification of car images.        |
 
 ---
 
@@ -97,26 +99,38 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 
 ### Below are some of the university courses I have completed:
 
-- **[C Programming](https://github.com/YuvalBar-or/C-Course.git)**  
-  Basics of C programming including variables, data types, control structures, and memory management.
+| **Course Name**                                       | **Description**                                                                                          |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **[C Programming](https://github.com/YuvalBar-or/C-Course.git)** | Basics of C programming including variables, data types, control structures, and memory management.        |
+| **[Java Programming](https://github.com/YuvalBar-or/OOP-Course.git)** | Focused on object-oriented programming, exception handling, and GUI development.                          |
+| **[Machine Learning & Neural Networks](https://github.com/YuvalBar-or/ML-and-NN-Course.git)** | Fundamentals of ML algorithms and neural network architectures.                                          |
+| **[Image Processing](https://github.com/YuvalBar-or/Image-Processing-Course.git)** | Image enhancement, segmentation, and feature extraction techniques.                                       |
+| **[Operating Systems](https://github.com/YuvalBar-or/Operating-Systems-Course.git)** | Process management, memory management, file systems, and system security.                                 |
+| **[Computer Communications](https://github.com/YuvalBar-or/Computer-Coms-Course.git)** | Study of network protocols, data transmission, error detection, and routing.                              |
+| **[C++ Programming](https://github.com/YuvalBar-or/CPP-course.git)** | Basics of C++ including object-oriented programming and advanced data structures.                         |
 
-- **[Java Programming](https://github.com/YuvalBar-or/OOP-Course.git)**  
-  Focused on object-oriented programming, exception handling, and GUI development.
+---
 
-- **[Machine Learning & Neural Networks](https://github.com/YuvalBar-or/ML-and-NN-Course.git)**  
-  Fundamentals of ML algorithms and neural network architectures.
 
-- **[Image Processing](https://github.com/YuvalBar-or/Image-Processing-Course.git)**  
-  Image enhancement, segmentation, and feature extraction techniques.
+## 🎓 Final Bachelor's Project: Radiologist-Informed Feature Extraction and Classification for Cancer Diagnosis Using Image Masks
 
-- **[Operating Systems](https://github.com/YuvalBar-or/Operating-Systems-Course.git)**  
-  Process management, memory management, file systems, and system security.
+As part of my Bachelor's degree, I worked on a project focused on enhancing **cancer diagnosis** using machine learning models applied to medical imaging data. The research was centered on the **Radiologist-Informed Feature Extraction** method, where we aimed to improve the performance of cancer classification models by incorporating domain-specific knowledge from radiologists. The main focus of the study was on **breast cancer diagnosis** using image masks from multiple publicly available datasets.
 
-- **[Computer Communications](https://github.com/YuvalBar-or/Computer-Coms-Course.git)**  
-  Study of network protocols, data transmission, error detection, and routing.
+### Key Highlights:
+- **Dataset Profiling**: We analyzed several publicly available datasets, including **BreakHIS**, **SIIM-ISIC Melanoma Classification**, and **Breast Cancer Semantic Segmentation (BCSS)**, focusing on image data combined with radiologist-informed expertise.
+- **Feature Extraction**: Key radiologist-informed features like **area**, **perimeter**, and **convex hull** were extracted from image masks using **OpenCV** functions.
+- **Machine Learning Models**: We trained models such as **XGBoost** and **RandomForest**, achieving an accuracy of **85%** on the extracted features, demonstrating the importance of integrating expert knowledge in medical AI applications.
+- **Outcome**: The study concluded that combining simpler models with expert-driven features could achieve competitive accuracy in cancer diagnosis, providing more interpretable results for clinical settings.
 
-- **[C++ Programming](https://github.com/YuvalBar-or/CPP-course.git)**  
-  Basics of C++ including object-oriented programming and advanced data structures.
+For more details, you can check out the final paper I submitted:  
+**[Bachelor’s Final Paper: Radiologist-Informed Feature Extraction for Cancer Diagnosis](https://github.com/YuvalBar-or/Bachelors-Final-Paper/blob/main/Bachelors-Final-Paper.pdf)**
+
+
+---
+
+## 📖 Master's Thesis: [..]
+
+in progress. 
 
 ---
 

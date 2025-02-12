@@ -42,7 +42,7 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 ## 📧 Contact Me
 
 - **Email**: [yuvalb.mail@gmail.com](mailto:yuvalb.mail@gmail.com)  
-- **LinkedIn**: [YuvalBar-or](https://www.linkedin.com/in/YuvalBar-or)  
+- **LinkedIn**: [YuvalBar-or](https://www.linkedin.com/in/yuval-baror-9464b7229/)
 - **GitHub**: [YuvalBar-or](https://github.com/YuvalBar-or)
 
 ---

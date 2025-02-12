@@ -68,7 +68,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YuvalBar-
 
 Here are some of the projects I've worked on:
 
-- [Project 1: Heart Disease Prediction](https://github.com/YuvalBar-or/heart-disease-prediction) - A machine learning model to predict heart disease based on patient data.
+- [Project 1: Heart Disease Prediction](https://github.com/YuvalBar-or/Heart-disease-probability.git) - A machine learning model to predict heart disease based on patient data.
 - [Project 2: Cat and Dog Classification](https://github.com/YuvalBar-or/cat_dog_classification.git) - classification using KNN and SVM, trying to see if a machine could differentiate between somthing so trivial for us.
 - [Project 3: Cars Classification](https://github.com/YuvalBar-or/CarsClassification.git) -  implements a deep learning image classifier using DenseNet121 for binary classification.
 

@@ -122,8 +122,13 @@ As part of my Bachelor's degree, I worked on a project focused on enhancing **ca
 - **Machine Learning Models**: We trained models such as **XGBoost** and **RandomForest**, achieving an accuracy of **85%** on the extracted features, demonstrating the importance of integrating expert knowledge in medical AI applications.
 - **Outcome**: The study concluded that combining simpler models with expert-driven features could achieve competitive accuracy in cancer diagnosis, providing more interpretable results for clinical settings.
 
+### Presentation:
+I also created a presentation summarizing my project, where I discuss the methodologies, results, and the impact of incorporating radiologist-informed features in cancer diagnosis. You can view the presentation here:  
+**[Project Presentation: Radiologist-Informed Feature Extraction for Cancer Diagnosis](https://link-to-presentation.com)**
+
 For more details, you can check out the final paper I submitted:  
 **[Bachelor’s Final Paper: Radiologist-Informed Feature Extraction for Cancer Diagnosis](https://github.com/YuvalBar-or/Bachelors-Final-Paper.git)**
+
 
 
 ---

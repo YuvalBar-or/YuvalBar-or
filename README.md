@@ -108,7 +108,7 @@ I'm passionate about exploring new technologies and expanding my knowledge in ar
 | **[Operating Systems](https://github.com/YuvalBar-or/Operating-Systems-Course.git)** | Process management, memory management, file systems, and system security.                                 |
 | **[Computer Communications](https://github.com/YuvalBar-or/Computer-Coms-Course.git)** | Study of network protocols, data transmission, error detection, and routing.                              |
 | **[C++ Programming](https://github.com/YuvalBar-or/CPP-course.git)** | Basics of C++ including object-oriented programming and advanced data structures.                         |
-| **Intro to Software Radio**                          | Fundamentals of software-defined radio: I/Q sampling, FFTs, waterfall visualization, and GNU Radio Companion flowgraph development. |
+| **[Intro to Software Radio](https://github.com/YuvalBar-or/Intro-to-Software-Radio.git)**                          | Fundamentals of software-defined radio: I/Q sampling, FFTs, waterfall visualization, and GNU Radio Companion flowgraph development. |
 
 ---
 
